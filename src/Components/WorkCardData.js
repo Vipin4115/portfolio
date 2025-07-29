@@ -1,6 +1,6 @@
 import pro1 from "../assets/airbnb.png";
 import pro2 from "../assets/urlshortner.png";
-import pro3 from "../assets/project3.png";
+import pro3 from "../assets/AiSaas.png";
 
 const ProjectCardData = [
     {
@@ -20,9 +20,10 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro3,
-        title: "Ecommerce Website Design",
-        text: "Thirving Facebook community and top-ranked podcast.",
-        view: "https://www.youtube.com/watch?v=P8YuWEKTeuE",
+        title: "QuickAI",
+        text: "QuickAI – A multifunctional AI toolkit featuring article generation, blog title suggestions, resume reviews, image generation, and background/object removal.",
+        view: "https://quick-ai-kohl.vercel.app/",
+        source: "https://github.com/Vipin4115/QuickAI"
 
     },
     
